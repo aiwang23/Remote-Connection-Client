@@ -1,0 +1,15 @@
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/CMakeFiles/edit_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/CMakeFiles/rebuild_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Core/CMakeFiles/Core.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Core/CMakeFiles/edit_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Core/CMakeFiles/rebuild_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Utils/CMakeFiles/Utils.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Utils/CMakeFiles/edit_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Utils/CMakeFiles/rebuild_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Window/CMakeFiles/Window.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Window/CMakeFiles/edit_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Window/CMakeFiles/rebuild_cache.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Window/CMakeFiles/Window_autogen_timestamp_deps.dir
+D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Window/CMakeFiles/Window_autogen.dir

@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+57850ca40f583dc5cc972994a075e740 Sources/Window/CMakeFiles/Window_autogen
+57850ca40f583dc5cc972994a075e740 Sources/Window/CMakeFiles/Window_autogen_timestamp_deps
+0f49b02c43ec34435f2027793c277b7e Sources/Window/Window_autogen/timestamp

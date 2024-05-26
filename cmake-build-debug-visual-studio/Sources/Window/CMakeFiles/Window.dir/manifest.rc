@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio/Sources/Window/CMakeFiles/Window.dir/embed.manifest"
