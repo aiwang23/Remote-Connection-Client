@@ -35,7 +35,7 @@ namespace Window
 
 	private:
 		void InitConnectSlots();
-		void InitRecentConnections();
+		void InitRecentConnections() const;
 		void InitMenu();
 
 	public slots:

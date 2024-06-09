@@ -1,0 +1,204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Sources",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-Sources-Debug-e0c6560aa987530aa449.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Sources"
+				},
+				{
+					"build" : "Sources/Core",
+					"jsonFile" : "directory-Sources.Core-Debug-2deb3de903433299a430.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "Sources/Core",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Sources/Utils",
+					"jsonFile" : "directory-Sources.Utils-Debug-cdba7cb12035ccbf1166.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "Sources/Utils",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Sources/Window",
+					"jsonFile" : "directory-Sources.Window-Debug-f3f58c29d855f1506d4c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "Sources/Window",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Client"
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Core",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Utils",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Window",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Core::@6fb60834e0e0e8903834",
+					"jsonFile" : "target-Core-Debug-be0eb5f09dd84cac6eb0.json",
+					"name" : "Core",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Utils::@68d0b1cd7572cca1ddc8",
+					"jsonFile" : "target-Utils-Debug-d1819269a2c5f67f2d60.json",
+					"name" : "Utils",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Window::@7ed29ebc9df9b0c0ca85",
+					"jsonFile" : "target-Window-Debug-a7fbcad33ca2a4e3f2ff.json",
+					"name" : "Window",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Window_autogen::@7ed29ebc9df9b0c0ca85",
+					"jsonFile" : "target-Window_autogen-Debug-550341b4cd80377e283c.json",
+					"name" : "Window_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Window_autogen_timestamp_deps::@7ed29ebc9df9b0c0ca85",
+					"jsonFile" : "target-Window_autogen_timestamp_deps-Debug-0fffee6e01ac90dc9e95.json",
+					"name" : "Window_autogen_timestamp_deps",
+					"projectIndex" : 4
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Project/Cpp_/Remote-Connection-Client/cmake-build-debug-visual-studio",
+		"source" : "D:/Project/Cpp_/Remote-Connection-Client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

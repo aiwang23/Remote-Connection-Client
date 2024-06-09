@@ -56,8 +56,8 @@ include Sources\Window\CMakeFiles\Window_autogen_timestamp_deps.dir\compiler_dep
 include Sources\Window\CMakeFiles\Window_autogen_timestamp_deps.dir\progress.make
 
 Sources\Window\CMakeFiles\Window_autogen_timestamp_deps: C:\Qt\6.4.3\msvc2019_64\.\bin\moc.exe
-Sources\Window\CMakeFiles\Window_autogen_timestamp_deps: D:\Project\Cpp_\Remote-Connection-Client\lib\Utils.lib
 Sources\Window\CMakeFiles\Window_autogen_timestamp_deps: D:\Project\Cpp_\Remote-Connection-Client\lib\Core.lib
+Sources\Window\CMakeFiles\Window_autogen_timestamp_deps: D:\Project\Cpp_\Remote-Connection-Client\lib\Utils.lib
 Sources\Window\CMakeFiles\Window_autogen_timestamp_deps: C:\Qt\6.4.3\msvc2019_64\.\bin\uic.exe
 	cd D:\Project\Cpp_\Remote-Connection-Client\cmake-build-debug-visual-studio\Sources\Window
 	cd D:\Project\Cpp_\Remote-Connection-Client\cmake-build-debug-visual-studio

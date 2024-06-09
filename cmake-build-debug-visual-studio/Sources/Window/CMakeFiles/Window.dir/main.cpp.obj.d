@@ -150,6 +150,7 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/unordered_map
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xhash
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/list
+C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xpolymorphic_allocator.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/vector
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_bit_utils.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_sanitizer_annotate_container.hpp
@@ -275,7 +276,6 @@ C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcontainertools_impl.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcoreapplication_platform.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcoreapplication.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qwindowdefs.h
-C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcontainerfwd.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qwindowdefs_win.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qpoint.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qsize.h
@@ -391,7 +391,6 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/enclaveapi.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/threadpoollegacyapiset.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/threadpoolapiset.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/jobapi.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/jobapi2.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/wow64apiset.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/libloaderapi.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/securitybaseapi.h
@@ -413,7 +412,6 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/pshpack4.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/pshpack4.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/winuser.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/pshpack2.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/tvout.h
@@ -421,10 +419,7 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/winnls.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/datetimeapi.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/stringapiset.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/winnls.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/wincon.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/wincontypes.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/consoleapi.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/consoleapi2.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/consoleapi3.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/winver.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/verrsrc.h
@@ -512,13 +507,14 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/pshpack8.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/objbase.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/pshpack8.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/combaseapi.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/pshpack8.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/unknwnbase.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/objidlbase.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/guiddef.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/cguid.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
+C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/coml2api.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/objidl.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/unknwn.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/propidlbase.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/oaidl.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/urlmon.h

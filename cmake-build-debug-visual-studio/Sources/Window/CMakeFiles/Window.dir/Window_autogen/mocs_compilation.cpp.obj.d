@@ -167,13 +167,10 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/__msvc_sanitizer_annotate_container.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xbit_ops.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xnode_handle.h
-C:/Qt/6.4.3/msvc2019_64/include/QtCore/qstringview.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qchar.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qstringview.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qbytearray.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qrefcount.h
-C:/Qt/6.4.3/msvc2019_64/include/QtCore/qatomic.h
-C:/Qt/6.4.3/msvc2019_64/include/QtCore/qarraydata.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qpair.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qatomic.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qarraydatapointer.h
@@ -306,7 +303,6 @@ C:/Qt/6.4.3/msvc2019_64/include/QtCore/qbytearraylist.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qpalette.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qbrush.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qfont.h
-C:/Qt/6.4.3/msvc2019_64/include/QtGui/qfontmetrics.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qfontinfo.h
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/qsizepolicy.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qcursor.h

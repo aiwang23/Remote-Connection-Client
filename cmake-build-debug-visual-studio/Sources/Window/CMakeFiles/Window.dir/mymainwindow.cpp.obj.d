@@ -309,7 +309,6 @@ C:/Qt/6.4.3/msvc2019_64/include/QtGui/qfont.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qfontmetrics.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qfontinfo.h
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/qsizepolicy.h
-C:/Qt/6.4.3/msvc2019_64/include/QtGui/qcursor.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qbitmap.h
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/qtabwidget.h
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/QPushButton
@@ -457,12 +456,9 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/pshpack8.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/shellapi.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/winperf.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/pshpack8.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/winsock.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/wincrypt.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/bcrypt.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/ncrypt.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/dpapi.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/winefs.h
@@ -609,7 +605,6 @@ C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/QMainWindow
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/QMenuBar
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/qmenubar.h
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/QSpacerItem
-C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/QStatusBar
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/qstatusbar.h
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/QTabWidget
 C:/Qt/6.4.3/msvc2019_64/include/QtWidgets/QWidget
@@ -631,7 +626,6 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.3313
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/clocale
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/ucrt/locale.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/istream
-C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/ostream
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/ios
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/xlocnum
 D:/Project/Cpp_/Remote-Connection-Client/Sources/Utils/nlohmann/json.hpp

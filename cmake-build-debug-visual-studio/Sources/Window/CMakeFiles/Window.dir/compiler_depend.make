@@ -171,13 +171,10 @@ Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: "C
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_sanitizer_annotate_container.hpp"
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xbit_ops.h"
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xnode_handle.h"
-Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qstringview.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qchar.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qstringview.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qbytearray.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qrefcount.h
-Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qatomic.h
-Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qarraydata.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qpair.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qatomic.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qarraydatapointer.h
@@ -310,7 +307,6 @@ Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qpalette.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qbrush.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qfont.h
-Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qfontmetrics.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qfontinfo.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\qsizepolicy.h
 Sources\Window\CMakeFiles\Window.dir\Window_autogen\mocs_compilation.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qcursor.h
@@ -762,7 +758,6 @@ Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qbytearraylist.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qlist.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qstringlist.h
-Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qlist.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qalgorithms.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qcontainertools_impl.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qstringmatcher.h
@@ -783,7 +778,6 @@ Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qflags.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qcompare_impl.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qtaggedpointer.h
-Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qmath.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qtypeinfo.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qcontainerfwd.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\array"
@@ -820,7 +814,6 @@ Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qatomic.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qshareddata.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qatomic.h
-Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qsharedpointer_impl.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qatomic.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qimage.h
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qpixelformat.h
@@ -1070,8 +1063,6 @@ Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h"
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\commdlg.h"
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\prsht.h"
-Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\stralign.h"
-Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winsvc.h"
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\mcx.h"
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\imm.h"
 Sources\Window\CMakeFiles\Window.dir\ftpwidget.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ime_cmodes.h"
@@ -1362,6 +1353,7 @@ Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files\Microsoft V
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\unordered_map"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xhash"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\list"
+Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xpolymorphic_allocator.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_bit_utils.hpp"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\__msvc_sanitizer_annotate_container.hpp"
@@ -1487,7 +1479,6 @@ Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: C:\Qt\6.4.3\msvc2019_64\inclu
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qcoreapplication_platform.h
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qcoreapplication.h
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qwindowdefs.h
-Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qcontainerfwd.h
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qwindowdefs_win.h
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qpoint.h
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qsize.h
@@ -1603,7 +1594,6 @@ Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windo
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoollegacyapiset.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\threadpoolapiset.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi.h"
-Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\jobapi2.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wow64apiset.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\libloaderapi.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\securitybaseapi.h"
@@ -1625,7 +1615,6 @@ Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windo
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack4.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h"
-Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winuser.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack2.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\tvout.h"
@@ -1633,10 +1622,7 @@ Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windo
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\datetimeapi.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\stringapiset.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winnls.h"
-Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincon.h"
-Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincontypes.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi.h"
-Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi2.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\consoleapi3.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winver.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\verrsrc.h"
@@ -1724,13 +1710,14 @@ Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windo
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objbase.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\combaseapi.h"
+Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwnbase.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidlbase.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\guiddef.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\cguid.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h"
+Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\coml2api.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidl.h"
-Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwn.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\propidlbase.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\oaidl.h"
 Sources\Window\CMakeFiles\Window.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\urlmon.h"
@@ -2219,6 +2206,7 @@ Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files\Mic
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ctime"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h"
+Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qglobalstatic.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qglobal.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qatomic.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtCore\qglobal.h
@@ -2432,7 +2420,6 @@ Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qfontmetrics.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qfontinfo.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\qsizepolicy.h
-Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qcursor.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtGui\qbitmap.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\qtabwidget.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\QPushButton
@@ -2580,12 +2567,9 @@ Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x8
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\shellapi.h"
-Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winperf.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\poppack.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winsock.h"
-Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\wincrypt.h"
-Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\bcrypt.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ncrypt.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\dpapi.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\winefs.h"
@@ -2622,6 +2606,7 @@ Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x8
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objbase.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h"
+Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\combaseapi.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\pshpack8.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\unknwnbase.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\objidlbase.h"
@@ -2731,7 +2716,6 @@ Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\QMenuBar
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\qmenubar.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\QSpacerItem
-Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\QStatusBar
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\qstatusbar.h
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\QTabWidget
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\QWidget
@@ -2753,7 +2737,6 @@ Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files\Mic
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\clocale"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\istream"
-Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ostream"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ios"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xlocnum"
 Sources\Window\CMakeFiles\Window.dir\mymainwindow.cpp.obj: D:\Project\Cpp_\Remote-Connection-Client\Sources\Utils\nlohmann\json.hpp
@@ -3281,8 +3264,6 @@ C:\Qt\6.4.3\msvc2019_64\include\QtCore\qrefcount.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ktmtypes.h":
 
-C:\Qt\6.4.3\msvc2019_64\include\QtCore\qarraydata.h:
-
 C:\Qt\6.4.3\msvc2019_64\include\QtCore\qpair.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um\ws2tcpip.h":
@@ -3478,10 +3459,6 @@ C:\Qt\6.4.3\msvc2019_64\include\QtCore\qshareddata_impl.h:
 C:\Qt\6.4.3\msvc2019_64\include\QtCore\qhash.h:
 
 C:\Qt\6.4.3\msvc2019_64\include\QtGui\qbrush.h:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\locale":
-
-C:\Qt\6.4.3\msvc2019_64\include\QtGui\qfontmetrics.h:
 
 C:\Qt\6.4.3\msvc2019_64\include\QtGui\qfontinfo.h:
 
@@ -3731,6 +3708,12 @@ D:\Project\Cpp_\Remote-Connection-Client\Sources\Window\ftpwidget.cpp:
 
 D:\Project\Cpp_\Remote-Connection-Client\Sources\Window\ftpwidget.h:
 
+C:\Qt\6.4.3\msvc2019_64\include\QtCore\qarraydata.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\locale":
+
+C:\Qt\6.4.3\msvc2019_64\include\QtGui\qfontmetrics.h:
+
 C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\qapplication.h:
 
 C:\Qt\6.4.3\msvc2019_64\include\QtGui\qguiapplication.h:
@@ -3834,8 +3817,6 @@ D:\Project\Cpp_\Remote-Connection-Client\Sources\Window\mymainwindow.cpp:
 Sources\Window\Window_autogen\include\ui_MyMainWindow.h:
 
 C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\qmenubar.h:
-
-C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\QStatusBar:
 
 C:\Qt\6.4.3\msvc2019_64\include\QtWidgets\qstatusbar.h:
 

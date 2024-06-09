@@ -210,7 +210,6 @@ C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcontainertools_impl.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qbytearraylist.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qlist.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qstringlist.h
-C:/Qt/6.4.3/msvc2019_64/include/QtCore/qlist.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qalgorithms.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcontainertools_impl.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qstringmatcher.h
@@ -231,7 +230,6 @@ C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcontainerinfo.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qflags.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcompare_impl.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qtaggedpointer.h
-C:/Qt/6.4.3/msvc2019_64/include/QtCore/qmath.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qtypeinfo.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qcontainerfwd.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/include/array
@@ -268,7 +266,6 @@ C:/Qt/6.4.3/msvc2019_64/include/QtCore/qsharedpointer.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qatomic.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qshareddata.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qatomic.h
-C:/Qt/6.4.3/msvc2019_64/include/QtCore/qsharedpointer_impl.h
 C:/Qt/6.4.3/msvc2019_64/include/QtCore/qatomic.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qimage.h
 C:/Qt/6.4.3/msvc2019_64/include/QtGui/qpixelformat.h
@@ -518,8 +515,6 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/poppack.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/commdlg.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/prsht.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/shared/stralign.h
-C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/winsvc.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/mcx.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/imm.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.19041.0/um/ime_cmodes.h
